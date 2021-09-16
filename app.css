@@ -10,8 +10,16 @@ body{
     background-color: #E9ECEF;
 }
 
-
-
 .main-header{
     color:#FF0000;
+}
+
+#aboutUs-header{
+    color: purple;
+    margin-bottom: 0;
+}
+
+
+.aboutUs-header2{
+    color: orange;
 }
